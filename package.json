@@ -1,0 +1,14 @@
+{
+  "name": "@deep-foundation/chatgpt-tokens-gpt-4-encoder",
+  "dependencies": {
+    "@deep-foundation/core": "^0.0.2",
+    "@deep-foundation/messaging": "~1.1.0",
+    "@deep-foundation/tokens": "^0.0.11",
+    "@freephoenix888/dependency": "^0.0.1",
+    "@konard/python-docker-isolation-provider": "^0.0.2"
+  },
+  "version": "1.0.1",
+  "keywords": [
+    "deep-package"
+  ]
+}
